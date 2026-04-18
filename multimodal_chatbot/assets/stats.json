@@ -1,0 +1,10 @@
+{
+  "total_qa_pairs": 76,
+  "avg_prompt_len": 85.0,
+  "avg_response_len": 317.8,
+  "sentiment_counts": {
+    "Neutral": 52,
+    "Positive": 15,
+    "Negative": 9
+  }
+}
